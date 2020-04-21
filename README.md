@@ -18,10 +18,10 @@
 <tr><td colspan="2"><a href="#applications">2. NLP</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#physics">2.1 N/A</a></td>
-    <td>&ensp;<a href="#chemistry-and-biology">2.2 N/A></td>
+    <td>&ensp;<a href="#chemistry-and-biology">2.2 N/A</td>
 </tr> 
 <tr>
     <td>&emsp;<a href="#knowledge-graph">2.3 N/A/td>
-    <td>&ensp;<a href="#recommender-systems">2.4 N/A></td>
+    <td>&ensp;<a href="#recommender-systems">2.4 N/A</td>
 </tr>
 </table>
