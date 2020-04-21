@@ -21,7 +21,7 @@
     <td>&ensp;<a href="#chemistry-and-biology">2.2 N/A</td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#knowledge-graph">2.3 N/A/td>
+    <td>&emsp;<a href="#knowledge-graph">2.3 N/A</td>
     <td>&ensp;<a href="#recommender-systems">2.4 N/A</td>
 </tr>
 </table>
