@@ -28,4 +28,4 @@
 
 ## [gcn](#content)
 ### [Basic Models](#content)
-1. **Benchmarking Graph Neural Networks.** IEEE TNN 1997. [paper](https://arxiv.org/pdf/2003.00982.pdf)
+1. **Benchmarking Graph Neural Networks.**  [paper](https://arxiv.org/pdf/2003.00982.pdf)
